@@ -1,0 +1,2 @@
+# Instagram-User-Growth-Outliers-Analysis-of-10M-Users-in-Developed-vs.-Developing-Countries
+In this project, I analyzed Instagram user data to identify outliers—countries with significantly higher user numbers. I used statistical techniques to examine growth trends in developed and developing countries, offering insights into high-potential markets and providing data-driven strategies for Instagram’s global expansion.
